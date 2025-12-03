@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    <div className="bg-[url('./quiz-bg.jpg')]">
+    <div  className="bg-[url('./imagebg.jpg')] bg-cover bg-center min-h-screen ">
       <Provider store={store} >
         <Quiz/>
       </Provider>
