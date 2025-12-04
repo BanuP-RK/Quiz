@@ -16,7 +16,7 @@ const QuizStart = () => {
                 <div className=' bg-[#D2BF55] inline-flex items-center justify-center w-16 h-16 rounded-full mb-2'>
                 <BookOpen className='w-8 h-8'/>
                 </div>
-                <h1 className='font-bold text-4xl mb-4'>Logical Reasoning Quiz</h1>
+                <h1 className='font-bold text-4xl mb-4'>React Quiz</h1>
                 <p className='text-sm mb-4 max-w-2xl mx-auto'>
                     Test your knowledge of Logical Reasoning . Answer multiple choice of questions and see how well you know the logics!!
                 </p>
